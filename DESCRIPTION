@@ -1,0 +1,11 @@
+Package: montyhall3doors
+Title: Monty Hall Problem Simulation
+Version: 0.0.0.9000
+Authors@R: person("Corina", "Tapscott", , "crtapsco@asu.edu", role = c("aut", "cre"), comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package determines whether switching doors is a winning strategy in the original Monty Hall Problem game, i.e., 3 doors version.
+Depends:
+    dplyr
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
